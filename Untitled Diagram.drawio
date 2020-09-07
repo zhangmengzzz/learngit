@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T14:13:33.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="1zSnMM9d3Nxdr5Qd6mw1" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T14:13:49.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="z0HHpukqxlMypJ6340l4" version="13.6.6" type="github">
   <diagram id="Vs9e8ny5J1XmW0SbIa1B" name="Page-1">
     <mxGraphModel dx="1186" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="8xah1XvFes5_cuaLdXPZ-55" value="CA、运营总监、联动总监" style="swimlane;html=1;startSize=20;horizontal=0;" parent="8xah1XvFes5_cuaLdXPZ-43" vertex="1">
           <mxGeometry x="20" y="840" width="1140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PuIoKSmRrxkjpa4qVoRV-1" value="啊" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
